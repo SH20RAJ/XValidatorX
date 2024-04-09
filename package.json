@@ -1,0 +1,22 @@
+{
+    "name": "xvalidatorx",
+    "version": "1.0.0",
+    "description": "A comprehensive validation library for common data validation tasks.",
+    "main": "xvalidatorx.mjs",
+    "scripts": {
+      "test": "echo \"No test specified\" && exit 0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sh20raj/xvalidatorx.git"
+    },
+    "keywords": ["validation", "validator", "data validation"],
+    "author": "sh20raj",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/sh20raj/xvalidatorx/issues"
+    },
+    "homepage": "https://github.com/sh20raj/xvalidatorx",
+    "dependencies": {}
+  }
+  
