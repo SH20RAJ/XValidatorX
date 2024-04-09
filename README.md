@@ -35,7 +35,7 @@ Or include it via CDN:
 Here's an example of how you can use `XValidatorX`:
 
 ```javascript
-const XValidatorX = require('xvalidatorx');
+import XValidatorX from 'xvalidatorx';
 
 console.log(XValidatorX.isEmail('test@example.com')); // true
 console.log(XValidatorX.isURL('https://www.example.com')); // true

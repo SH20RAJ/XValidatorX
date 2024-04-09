@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "A comprehensive validation library for common data validation tasks.",
     "main": "xvalidatorx.mjs",
+    "type": "module",
     "scripts": {
       "test": "echo \"No test specified\" && exit 0"
     },

@@ -1,5 +1,6 @@
  // Usage example
-const XValidatorX = require('./xvalidatorx');
+import XValidatorX from './xvalidatorx.mjs';
+// const XValidatorX = require('./xvalidatorx.js');
 
 console.log(XValidatorX.isEmail('test@example.com')); // true
 console.log(XValidatorX.isURL('https://www.example.com')); // true
