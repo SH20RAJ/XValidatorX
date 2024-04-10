@@ -6,7 +6,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2FXValidatorX%2F&labelColor=%23f47373&countColor=%232ccce4&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2FXValidatorX%2F)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SH20RAJ.svg?style=social)](https://twitter.com/SH20RAJ)
 
-A comprehensive validation library for common data validation tasks.
+A comprehensive and light weight validation library for common data validation tasks.
 
 ## Installation
 
@@ -125,3 +125,7 @@ If you encounter any issues or have suggestions, please feel free to [open an is
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+> https://dev.to/sh20raj/xvalidatorx-a-lightweight-validation-library-for-javascript-2c59
